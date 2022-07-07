@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTranslationGenerator", "GameTranslationGenerator\GameTranslationGenerator.csproj", "{607381B9-67D2-4011-82B8-2BE3B954806A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{607381B9-67D2-4011-82B8-2BE3B954806A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607381B9-67D2-4011-82B8-2BE3B954806A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607381B9-67D2-4011-82B8-2BE3B954806A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607381B9-67D2-4011-82B8-2BE3B954806A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72771CA8-B2D2-4BA0-8255-5D3B9B92DC4A}
+	EndGlobalSection
+EndGlobal
