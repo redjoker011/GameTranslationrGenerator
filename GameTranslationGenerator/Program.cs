@@ -10,11 +10,52 @@ class Program
 
 		var ExitApp = false;
 
-		var output = "/Users/pete_jdv/Downloads/MG/file.yml";
-		var file = "/Users/pete_jdv/Downloads/MG/game-list.csv";
+		if (args.Length == 0)
+		{
+			Console.WriteLine("Invalid Arguments");
+			return;
+		}
+
+		foreach(var arg in args)
+		{
+			if(ExitApp)
+			{
+				break;
+			}
+
+			var splittedArgument = arg.Split("=");
+			var argumentKey = splittedArgument[0];
+			var argumentValue = splittedArgument[1];
+
+			switch(argumentKey)
+			{
+				case "filePath":
+                    FilePath = argumentValue;
+					break;
+				case "output":
+					Output = argumentValue;
+					break;
+				default:
+					Console.WriteLine($"Invalid Command: `{argumentKey}`");
+					ExitApp = true;
+					break;
+
+			}
+		}
+
+		// Check Console App Arguments
+		CheckFilePath();
+		CheckOutput();
+
+		// var output = "/users/pete_jdv/downloads/mg/file.ymll";
+		// var file = "/Users/pete_jdv/Downloads/MG/game-list.csv";
 
 		var parser = new Parser();
-		new Reader(parser).Translate(file, output);
+		var reader = new Reader(parser);
+
+	    reader.Translate(FilePath, Output);
+		ExitApp = !reader.Success;
+		
 
 		if (!ExitApp)
 		{
@@ -22,6 +63,7 @@ class Program
 			Console.ReadLine();
 		}
 	}
+
 	static void CheckFilePath()
 	{
 		if(String.IsNullOrEmpty(FilePath))

@@ -5,49 +5,68 @@ namespace GameTranslationGenerator;
 
 public class Reader
 {
-	Parser Parser { get; set; }
+	public bool Success { get; set; } = false;
+
+	private Parser _parser { get; set; }
 
     public Reader(Parser Service)
     {
 
-		Parser = Service;
+		_parser = Service;
     }
 
     public void Translate(string FilePath, string Output)
     {
-		using (var reader = new StreamReader($@"{FilePath}"))
+        try
 		{
-			while (!reader.EndOfStream)
+			using (var reader = new StreamReader($@"{FilePath}"))
 			{
-				var line = reader.ReadLine();
-				var values = line.Split(",");
+				while (!reader.EndOfStream)
+				{
+					var line = reader.ReadLine();
+					var values = line.Split(",");
 
-				// 0 -> Original Name
-				// 1 -> Chinese Translation
-				// 2 -> Game Code
-				// 3 -> Game Type
+					// 0 -> Original Name
+					// 1 -> Chinese Translation
+					// 2 -> Game Code
+					// 3 -> Game Type
 
-			    // Parse for English
-				Parser.Parse(values[0], values[2], values[3]);
-			    // Parse for Chinese
-				Parser.Parse(values[1], values[2], values[3], "cn");
-
-
-				WriteToFile(Output);
+				    // Parse for English
+					_parser.Parse(values[0], values[2], values[3]);
+				    // Parse for Chinese
+					_parser.Parse(values[1], values[2], values[3], "cn");
+				}
 			}
+
+			WriteToFile(Output);
 		}
+		catch(FileNotFoundException e)
+		{
+			Console.WriteLine("Error: Cannot Find File: {0}", e.FileName);
+			return;
+		}		
     }
 
 	private void WriteToFile(string Output)
 	{
-		using (var writer = new StreamWriter($@"{Output}"))
+		try
 		{
-			// Save Changes
-			var serializer = new SerializerBuilder()
-			.WithNamingConvention(CamelCaseNamingConvention.Instance)
-			.Build();
-			serializer.Serialize(writer, Parser);
+			using (var writer = new StreamWriter($@"{Output}"))
+			{
+				// Save Changes
+				var serializer = new SerializerBuilder()
+				.WithNamingConvention(CamelCaseNamingConvention.Instance)
+				.Build();
+				serializer.Serialize(writer, _parser);
+			}
 		}
+		catch(DirectoryNotFoundException e)
+		{
+			Console.WriteLine("Error: Directory Not Found! {0}", e.Message);
+			return;
+		}
+
+		Success = true;
     }
 }
 
