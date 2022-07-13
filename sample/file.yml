@@ -1,0 +1,832 @@
+en:
+  slots:
+    _SMG_777Surge: 777 Surge™
+    _SMG_boltXUP: Bolt X UP™
+    _SMG_luckyLeprechaunClusters: Lucky Leprechaun Clusters
+    _SMG_immortalRomanceVideoBingo: Immortal Romance Video Bingo
+    _SMG_maskOfAmun: Mask of Amun
+    _SMG_divineRichesHelios: Divine Riches Helios
+    _SMG_wildfireWins: Wildfire Wins
+    _SMG_circusJugglersJackpots: Circus Jugglers Jackpots
+    _SMG_diaDelMariachiMegaways: Día del Mariachi Megaways™
+    _SMG_westernGold2: Western Gold 2
+    _SMG_abraCatDabra: AbraCatDabra
+    _SMG_wildWildRomance: Wild Wild Romance
+    _SMG_lightningFortunes: Lightning Fortunes
+    _SMG_25000Talons: 25000 Talons
+    _SMG_cashNRichesMegaways: Cash 'N Riches Megaways™
+    _SMG_15Tridents: 15 Tridents™
+    _SMG_dungeonsAndDiamonds: Dungeons and Diamonds™
+    _SMG_theGreatAlbini2: The Great Albini 2
+    _SMG_aztecFalls: Aztec Falls
+    _SMG_mastersOfValhalla: Masters of Valhalla
+    _SMG_dokiDokiParfait: Doki Doki Parfait
+    _SMG_oniHunterNightSakura: Oni Hunter Night Sakura
+    _SMG_fishinPotsOfGold: Fishin' Pots Of Gold
+    _SMG_megaMoneyWheel: Mega Money Wheel
+    _SMG_switchWheelOfWinners: Wheel of Winners
+    _SMG_kingsOfCrystals: Kings of Crystals
+    _SMG_breakAwayShootout: Break Away Shootout
+    _SMG_hyperStrikeHyperSpins: Hyper Strike™ HyperSpins™
+    _SMG_jurassicParkGold: Jurassic Park Gold
+    _SMG_5StarKnockout: 5 Star Knockout
+    _SMG_bustTheMansion: Bust the Mansion
+    _SMG_agentJaneBlondeMaxVolume: Agent Jane Blonde Max Volume
+    _SMG_hyperStar: Hyper Star
+    _SMG_basketballStarWilds: Basketball Star Wilds
+    _SMG_arcticEnchantress: Arctic Enchantress™
+    _SMG_kodiakKingdom: Kodiak Kingdom
+    _SMG_bigBoomRiches: Big Boom Riches
+    _SMG_squealinRiches: Squealin' Riches
+    _SMG_4DiamondBlues: 4 Diamond Blues Megaways™
+    _SMG_9masksOfFireHyperSpins: 9 Masks of Fire™ HyperSpins™
+    _SMG_catClans: Cat Clans
+    _SMG_bookOfMrsClaus: Book of Mrs Claus
+    _SMG_luckyClucks: Lucky Clucks
+    _SMG_cossacksTheWildHunt: 'Cossacks: The Wild Hunt'
+    _SMG_chroniclesOfOlympusXUP: Chronicles of Olympus X Up
+    _SMG_dragonsBreath: Dragons Breath
+    _SMG_wweLegendsLinkWin: WWE Legends
+    _SMG_fortuneRush: Fortune Rush
+    _SMG_10000Wishes: 10000 Wishes
+    _SMG_108Heroes: 108 Heroes
+    _SMG_108heroesMultiplierFortunes: 108 Heroes Multiplier Fortunes
+    _SMG_5ReelDrive: 5 Reel Drive
+    _SMG_777MegaDeluxe: 777 Mega Deluxe™
+    _SMG_777RoyalWheel: 777 Royal Wheel
+    _SMG_8GoldenSkullsOfHollyRoger: 8 Golden Skulls of Holly Roger Megaways ™
+    _SMG_9BlazingDiamonds: 9 Blazing Diamonds
+    _SMG_9BlazingDiamondsWowpot: 9 Blazing Diamonds Wowpot
+    _SMG_9masksOfFire: 9 Masks of Fire
+    _SMG_9potsOfGold: 9 Pots of Gold
+    _SMG_aDarkMatter: A Dark Matter
+    _SMG_aTaleOfElves: A Tale of Elves
+    _SMG_absolootlyMadMegaMoolah: 'Absolootly Mad™: Mega Moolah'
+    _SMG_actionOpsSnowAndSable: 'ActionOps: Snow and Sable'
+    _SMG_adventurePalace: Adventure Palace
+    _SMG_adventuresOfDoubloonIsland: Adventures Of Doubloon Island™
+    _SMG_africaXUP: Africa X UP™
+    _SMG_africanLegends: African Legends
+    _SMG_ageOfConquest: Age of Conquest
+    _SMG_ageOfDiscovery: Age of Discovery
+    _SMG_agentJaneBlonde: Agent Jane Blonde
+    _SMG_agentjaneblondereturns: Agent Jane Blonde Returns
+    _SMG_alaskanFishing: Alaskan Fishing
+    _SMG_alchemistStone: Alchemist Stone
+    _SMG_alchemyBlast: Alchemy Blast
+    _SMG_alchemyFortunes: Alchemy Fortunes
+    _SMG_amazingLinkApollo: Amazing Link Apollo
+    _SMG_amazingLinkZeus: Amazing Link Zeus
+    _SMG_americanRouletteGold: American Roulette
+    _SMG_switchAmericanRoulette: American Roulette (Jade)
+    _SMG_ancientFortunesPoseidonMegaways: 'Ancient Fortunes : Poseidon Megaways™'
+    _SMG_ancientFortunesPoseidonWOWPOT: 'Ancient Fortunes: Poseidon™ WOWPot!™ Megaways™'
+    _SMG_ancientFortunesZeus: 'Ancient Fortunes: Zeus'
+    _SMG_ariana: Ariana
+    _SMG_asianBeauty: Asian Beauty
+    _SMG_assassinMoon: Assassin Moon
+    _SMG_astroLegendsLyraandErion: 'Astro Legends: Lyra and Erion'
+    _SMG_atlanteanTreasures: 'Atlantean Treasures: Mega Moolah'
+    _SMG_atlantisRising: Atlantis Rising
+    _SMG_augustus: Augustus
+    _SMG_auroraWilds: Aurora Wilds
+    _SMG_avalon: Avalon
+    _SMG_badmintonHero: Badminton Hero
+    _SMG_bananaOdyssey: Banana Odyssey
+    _SMG_barBarBlackSheep5Reel: Bar Bar Black Sheep - 5 Reel
+    _SMG_BarsAndStripes: Bars & Stripes
+    _SMG_basketballStar: Basketball Star
+    _SMG_basketballStarDeluxe: Basketball Star Deluxe
+    _SMG_basketballStaronFire: Basketball Star on Fire
+    _SMG_battleRoyale: Battle Royale
+    _SMG_beachBabes: Beach Babes
+    _SMG_beautifulBones: Beautiful Bones
+    _SMG_bigKahuna: Big Kahuna
+    _SMG_bigTop: Big Top
+    _SMG_bikiniParty: Bikini Party
+    _SMG_blazingMammoth: Blazing Mammoth
+    _SMG_boatofFortune: Boat of Fortune
+    _SMG_boogieMonsters: Boogie Monsters
+    _SMG_bookOfKingArthur: Book of King Arthur
+    _SMG_bookOfOz: Book Of Oz
+    _SMG_bookOfOzLockNSpin: Book of Oz - Lock 'N Spin
+    _SMG_bookieOfOdds: Bookie of Odds
+    _SMG_boomPirates: Boom Pirates
+    _SMG_breakAway: Break Away
+    _SMG_breakAwayDeluxe: Break Away Deluxe
+    _SMG_breakAwayLuckyWilds: Break Away Lucky Wilds
+    _SMG_breakAwayUltra: Break Away Ultra
+    _SMG_BreakAwayV90: Break Away V90
+    _SMG_breakDaBank: Break da Bank
+    _SMG_breakDaBankAgain: Break da Bank Again
+    _SMG_breakDaBankAgainRespin: Break Da Bank Again Respin
+    _SMG_breakDaBankAgainMegaways: Break Da Bank Again™ MEGAWAYS™
+    _SMG_bridesmaids: Bridesmaids
+    _SMG_burningDesire: Burning Desire
+    _SMG_bushTelegraph: Bush Telegraph
+    _SMG_bustTheBank: Bust the Bank
+    _SMG_candyDreams: Candy Dreams
+    _SMG_carnaval: Carnaval
+    _SMG_carnavalJackpot: Carnaval Jackpot
+    _SMG_cashCrazy: Cash Crazy
+    _SMG_cashOfKingdoms: Cash of Kingdoms
+    _SMG_CashSplash5Reel: Cash Splash 5 Reel
+    _SMG_cashapillar: Cashapillar
+    _SMG_cashoccino: CashOccino
+    _SMG_cashville: Cashville
+    _SMG_centreCourt: Centre Court
+    _SMG_chicagoGold: Chicago Gold™
+    _SMG_classic243: Classic 243
+    _SMG_coolBuck5Reel: Cool Buck - 5 Reel
+    _SMG_coolWolf: Cool Wolf
+    _SMG_couchPotato: Couch Potato
+    _SMG_crazyChameleons: Crazy Chameleons
+    _SMG_cricketStar: Cricket Star
+    _SMG_cricketStarScratch: Cricket Star Scratch
+    _SMG_deadmau5: Deadmau5
+    _SMG_deckTheHalls: Deck the Halls
+    _SMG_decoDiamonds: Deco Diamonds
+    _SMG_diamondEmpire: Diamond Empire
+    _SMG_diamondKingJackpots: Diamond King Jackpots
+    _SMG_divineDiamonds: Divine Diamonds
+    _SMG_dolphinCoast: Dolphin Coast
+    _SMG_dolphinQuest: Dolphin Quest
+    _SMG_doubleWammy: Double Wammy
+    _SMG_dragonDance: Dragon Dance
+    _SMG_dragonShard: Dragon Shard
+    _SMG_dragonz: Dragonz
+    _SMG_dreamDate: Dream Date
+    _SMG_eaglesWings: Eagle's Wings
+    _SMG_egyptianTombs: Egyptian Tombs
+    _SMG_elvenGold: Elven Gold
+    _SMG_emeraldGold: Emerald Gold
+    _SMG_emotiCoins: EmotiCoins
+    _SMG_emperorOfTheSea: Emperor of the Sea
+    _SMG_emperorOfTheSeaDeluxe: Emperor of the Sea Deluxe
+    _SMG_europeanRoulette: European Roulette
+    _SMG_switchEuropeanRoulette: European Roulette (Jade)
+    _SMG_exoticCats: Exotic Cats
+    _SMG_fireForge: Fire Forge
+    _SMG_fishParty: Fish Party
+    _SMG_flowerFortunesAsia: Flower Fortunes Megaways™
+    _SMG_footballStar: Football Star
+    _SMG_footballStarDeluxe: Football Star Deluxe
+    _SMG_forbiddenThrone: Forbidden Throne
+    _SFG_ForestParty: Forest Party
+    _SMG_forgottenIsland: Forgotten Island Megaways ™
+    _SMG_fortuneGirl: Fortune Girl
+    _SMG_fortunium: Fortunium
+    _SMG_fortuniumGoldMegaMoolah: Fortunium Gold Mega Moolah
+    _SMG_frozenDiamonds: Frozen Diamonds
+    _SMG_fruitBlast: Fruit Blast
+    _SMG_fruitVSCandy: Fruit vs Candy
+    _SMG_gemsAndDragons: Gems & Dragons
+    _SMG_gemsOdyssey: Gems Odyssey
+    _SMG_girlsWithGunsJungleHeat: Girls With Guns - Jungle Heat
+    _SMG_gnomeWood: Gnome Wood
+    _SMG_goldCollector: Gold Collector
+    _SMG_goldFactory: Gold Factory
+    _SMG_goldaurGuardians: Goldaur Guardians
+    _SMG_goldenEra: Golden Era
+    _SMG_goldenPrincess: Golden Princess
+    _SMG_goldenStallion: Golden Stallion™
+    _SMG_gopherGold: Gopher Gold
+    _SMG_halloweenies: Halloweenies
+    _SMG_HappyHolidays: Happy Holidays
+    _SMG_happyMonsterClaw: Happy Monster Claw
+    _SMG_harveys: Harveys
+    _SMG_highSociety: High Society
+    _SMG_hippieDays: Hippie Days
+    _SMG_hollyJollyPenguins: Holly Jolly Penguins
+    _SMG_HoundHotel: Hound Hotel
+    _SMG_huangdiTheYellowEmperor: Huangdi - The Yellow Emperor
+    _SMG_hyperGold: Hyper Gold™
+    _SMG_hyperStrike: Hyper Strike™
+    _SMG_immortalRomance: Immortal Romance
+    _SMG_immortalRomanceMegaMoolah: Immortal Romance Mega Moolah
+    _SMG_ImmortalRomancev90: Immortal Romance V90
+    _SMG_incanAdventure: Incan Adventure
+    _SMG_theIncredibleBalloonMachine: Incredible Balloon Machine
+    _SMG_ingotsOfCaiShen: Ingots of Cai Shen
+    _SMG_isis: Isis
+    _SMG_joyfulJoker: Joyful Joker Megaways
+    _SMG_juicyJokerMegaMoolah: Juicy Joker Mega Moolah
+    _SMG_jungleJimElDorado: Jungle Jim - El Dorado
+    _SMG_jungleJimAndTheLostSphinx: Jungle Jim and the Lost Sphinx
+    _SMG_jurassicWorld: Jurassic World
+    _SMG_jurassicWorldRaptorRiches: 'Jurassic World: Raptor Riches'
+    _SMG_karaokeParty: Karaoke Party
+    _SMG_kathmandu: Kathmandu
+    _SMG_kingTusk: King Tusk
+    _SMG_kingsOfCash: Kings of Cash
+    _SMG_KittyCabana: Kitty Cabana
+    _SMG_ladiesNite: Ladies Nite
+    _SMG_ladiesNite2TurnWild: Ladies Nite 2 Turn Wild
+    _SMG_LadiesNiteV90: Ladies Nite V90
+    _SMG_ladyInRed: Lady in Red
+    _SMG_laraCroftTemplesAndTombs: Lara Croft - Temples and Tombs
+    _SMG_legacyOfOz: Legacy of Oz
+    _SMG_LegendOftheMoonLovers: Legend of the Moon Lovers
+    _SMG_lifeOfRiches: Life of Riches
+    _SMG_lionsPride: Lion's Pride
+    _SMG_liquidGold: Liquid Gold
+    _SMG_loaded: Loaded
+    _SMG_longMuFortunes: Long Mu Fortunes
+    _SMG_lostVegas: Lost Vegas
+    _SMG_luchaLegends: Lucha Legends
+    _SMG_luckyBachelors: Lucky Bachelors
+    _SMG_luckyfirecracker: Lucky Firecracker
+    _SMG_luckyKoi: Lucky Koi
+    _SMG_luckyLeprechaun: Lucky Leprechaun
+    _SMG_luckyLittleGods: Lucky Little Gods
+    _SMG_luckyRichesHyperspins: Lucky Riches Hyperspins
+    _SMG_luckyTwins: Lucky Twins
+    _SMG_luckyTwinsCatcher: Lucky Twins Catcher
+    _SMG_luckyTwinsJackpot: Lucky Twins Jackpot
+    _SMG_luckyTwinsWilds: Lucky Twins Wilds
+    _SMG_luckyZodiac: Lucky Zodiac
+    _SMG_madHatters: Mad Hatters
+    _SMG_magicOfSahara: Magic of Sahara
+    _SMG_MajorMillions5Reel: Major Millions 5 Reel
+    _SMG_mauiMischief: Maui Mischief™
+    _SMG_maxDamageArcade: Max Damage and the Alien Attack
+    _SMG_mayanPrincess: Mayan Princess
+    _SMG_megaMoneyMultiplier: Mega Money Multiplier
+    _SMG_megaMoneyRush: Mega Money Rush
+    _SMG_MegaMoolah: Mega Moolah
+    _SMG_megaMoolahGoddess: Mega Moolah Goddess
+    _SMG_megaMoolahTheWitchsMoon: Mega Moolah The Witch's Moon
+    _SMG_mermaidsMillions: Mermaids Millions
+    _SMG_mobyDickOnlineSlot: Moby Dick
+    _SMG_monsterBlast: Monster Blast
+    _SMG_monsterWheels: Monster Wheels
+    _SMG_munchkins: Munchkins
+    _SMG_mysticDreams: Mystic Dreams
+    _SMG_neptunesRichesOceanOfWilds: "Neptune's Riches: Ocean of Wilds"
+    _SMG_nobleSky: Noble Sky
+    _SMG_odinsRiches: Odin’s Riches
+    _SMG_oinkCountryLove: Oink Country Love
+    _SMG_oniHunter: Oni Hunter
+    _SMG_oniHunterPlus: Oni Hunter Plus
+    _SMG_ourDaysA: Our Days
+    _SMG_partyIsland: Party Island
+    _SMG_peekABoo5Reel: Peek-a-Boo - 5 Reel
+    _SMG_petsGoWild: Pets Go Wild
+    _SMG_pingPongStar: Ping Pong Star
+    _SMG_pistoleras: Pistoleras
+    _SMG_playboy: Playboy
+    _SMG_playboyFortunes: Playboy Fortunes ™
+    _SMG_playboyGold: Playboy Gold
+    _SMG_playboyGoldJackpots: Playboy™ Gold Jackpots
+    _SMG_pokeTheGuy: Poke The Guy
+    _SMG_pollenParty: Pollen Party
+    _SMG_prettyKitty: Pretty Kitty
+    _SMG_purePlatinum: Pure Platinum
+    _SMG_queenofAlexandria: Queen of Alexandria™
+    _SMG_queenOfAlexandriaWowpot: Queen Of Alexandria™ WOWPOT!™
+    _SMG_queenOfTheCrystalRays: Queen of Crystal Rays™
+    _SMG_rabbitinthehat: Rabbit in the Hat
+    _SMG_reelGems: Reel Gems
+    _SMG_reelGemsDeluxe: Reel Gems Deluxe
+    _SMG_reelSpinner: Reel Spinner
+    _SMG_reelStrike: Reel Strike
+    _SMG_ReelTalent: Reel Talent
+    _SMG_reelThunder: Reel Thunder
+    _SMG_relicSeekers: Relic Seekers
+    _SMG_retroReels: Retro Reels
+    _SMG_retroReelsDiamondGlitz: Retro Reels - Diamond Glitz
+    _SMG_retroReelsExtremeHeat: Retro Reels - Extreme Heat
+    _SMG_rhymingReelsGeorgiePorgie: Rhyming Reels - Georgie Porgie
+    _SMG_rhymingReelsHeartsAndTarts: Rhyming Reels - Hearts & Tarts
+    _SMG_rivieraRiches: Riviera Riches
+    _SMG_romanovRiches: Romanov Riches
+    _SMG_rugbyStar: Rugby Star
+    _SMG_rugbyStarDeluxe: Rugby Star Deluxe
+    _SMG_santaPaws: Santa Paws
+    _SMG_santasWildRide: Santa's Wild Ride
+    _SMG_scrooge: Scrooge
+    _SMG_secretAdmirer: Secret Admirer
+    _SMG_secretRomance: Secret Romance
+    _SMG_serengetiGold: Serengeti Gold
+    _SMG_shamrockHolmes: Shamrock Holmes Megaways™
+    _SMG_shanghaiBeauty: Shanghai Beauty
+    _SMG_sherlockandMoriarty: Sherlock & Moriarty WOWPOT!
+    _SMG_sherlockOfLondonOnlineSlot: Sherlock of London™
+    _SMG_shogunofTime: Shogun of Time
+    _SMG_showdownSaloon: Showdown Saloon
+    _SMG_silverFang: Silver Fang
+    _SMG_silverLioness4x: Silver Lioness4x
+    _SMG_silverSeas: Silver Seas
+    _SMG_silverbackMultiplierMountain: 'Silverback: Multiplier Mountain'
+    _SMG_sistersofOzJackpots: 'Sisters of Oz: Jackpots'
+    _SMG_sistersOfOzWowPot: Sisters of Oz™ WowPot! ™
+    _SMG_sixAcrobats: Six Acrobats
+    _SMG_soManyMonsters: So Many Monsters
+    _SMG_soMuchCandy: So Much Candy
+    _SMG_soMuchSushi: So Much Sushi
+    _SMG_soccerStriker: Soccer Striker
+    _SMG_solarWilds: Solar Wilds
+    _SMG_springBreak: Spring Break
+    _SMG_stardust: StarDust
+    _SMG_starlightKiss: Starlight Kiss
+    _SMG_stashOfTheTitans: Stash of the Titans
+    _SMG_sterlingSilver: Sterling Silver
+    _SMG_sugarParade: Sugar Parade
+    _SMG_summerHoliday: Summer Holiday
+    _SMG_summertime: Summertime
+    _SMG_sunQuest: SunQuest
+    _SMG_sunTide: SunTide
+    _SMG_supeItUp: Supe It Up
+    _SMG_sureWin: Sure Win
+    _SMG_tallyHo: Tally Ho
+    _SMG_tarzan: Tarzan
+    _SMG_tarzanAndtheJewelsofOpar: Tarzan and the Jewels of Opar
+    _SMG_tastyStreet: Tasty Street
+    _SMG_theFinerReelsOfLife: The Finer Reels of Life
+    _SMG_theGrandJourney: The Grand Journey
+    _SMG_theGreatAlbini: The Great Albini
+    _SMG_theHeatIsOn: The Heat Is On
+    _SMG_thePhantomOfTheOpera: The Phantom of the Opera™
+    _SMG_theRatPack: The Rat Pack
+    _SMG_theTwistedCircus: The Twisted Circus
+    _SMG_thunderstruck: Thunderstruck
+    _SMG_thunderstruck2: Thunderstruck II
+    _SMG_thunderstruckWildLightning: Thunderstruck Wild Lightning
+    _SMG_tigersEye: Tiger's Eye
+    _SMG_tikiReward: Tiki Reward
+    _SMG_tikiVikings: Tiki Vikings
+    _SMG_titansOfTheSunHyperion: Titans of the Sun - Hyperion
+    _SMG_titansOfTheSunTheia: Titans of the Sun - Theia
+    _SMG_tombRaider: Tomb Raider
+    _SMG_RubyTombRaiderII: Tomb Raider Secret of the Sword
+    _SMG_treasureDash: Treasure Dash
+    _SMG_treasureNile: Treasure Nile
+    _SMG_treasurePalace: Treasure Palace
+    _SMG_treasuresOfLionCity: Treasures of Lion City
+    _SMG_untamedGiantPanda: Untamed - Giant Panda
+    _SMG_villagePeople: Village People® Macho Moves
+    _SMG_vinylCountdown: Vinyl Countdown
+    _SMG_voila: Voila
+    _SMG_wackyPanda: Wacky Panda
+    _SMG_wantedOutlaws: Wanted Outlaws
+    _SMG_westernGold: Western Gold
+    _SMG_whatAHoot: What A Hoot
+    _SMG_wheelofWishes: Wheel of Wishes
+    _SMG_wickedTalesDarkRed: 'Wicked Tales: Dark Red'
+    _SMG_wildCatchNew: Wild Catch (New)
+    _SMG_wildOrient: Wild Orient
+    _SMG_wildScarabs: Wild Scarabs
+    _SMG_winSumDimSum: Win Sum Dim Sum
+    _SMG_zombieHoard: Zombie Hoard
+  poker:
+    _SFG_WPGaple: WP Gaple
+    _SMG_matchDay: Match Day
+    _SFG_WPXocDia: WP Xoc Dia
+    _SFG_WPFishPrawnCrab: WP Fish Prawn Crab
+    _SMG_andarBaharRoyale: Andar Bahar Royale
+    _SMG_switchBaccarat: Baccarat (Jade)
+    _SFG_WP28Mahjong: WP 28 Mahjong
+    _SFG_WP5PK: WP 5PK
+    _SFG_WPBankerNiuNiu: WP Banker Niu Niu
+    _SFG_WPBankerNiuNiu_3cards: WP Banker Niu Niu (3 Open cards)
+    _SFG_WPBankerNiuNiu_4cards: WP Banker Niu Niu (4 Open cards)
+    _SFG_WPBonusTexas: WP Bonus Texas
+    _SFG_WPCaiShenFruitMario: WP CaiShen Fruit Mario (Arcade Edition)
+    _SFG_WPChuhanTexas: WP Chuhan Texas
+    _SFG_Doudizhu: WP Doudizhu
+    _SFG_WPForestPartyJP: WP Forest Party (JP)
+    _SFG_GoldenFlower: WP Golden Flower
+    _SFG_WPGoldenPigRace: WP Golden Pig Race
+    _SFG_WPGoldenShark: WP Golden Shark
+    _SFG_WPInstantGoldenFlower: WP Instant Golden Flower
+    _SFG_WPMahjong_2P: WP Mahjong (2P Arcade)
+    _SFG_WP100NiuNiu: WP Niu Niu 100+ Players
+    _SFG_WPTavern: WP Tavern
+  casino:
+    _SMG_titaniumLiveGames_BaccaratNC: Baccarat (NC)
+    _SMG_titaniumLiveGames_Baccarat: Baccarat Live
+    _SMG_titaniumLiveGames_Hollywood_Baccarat: Hollywood Baccarat
+    _SMG_titaniumLiveGames_MP_Baccarat: MP Baccarat
+    _SMG_titaniumLiveGames_Roulette: Roulette
+    _SMG_titaniumLiveGames_Sicbo: Sicbo Live
+    _SMG_titaniumLiveGamesAutoRoulette: Auto Roulette
+    _SMG_titaniumLiveGames_Baccarat_VIP: VIP Baccarat
+  fishing:
+    _SFG_WDFuWaFishing: WD FuWa Fishing
+    _SFG_WDGoldBlastFishing: WD Gold Blast Fishing
+cn:
+  slots:
+    _SMG_777Surge: 777 电光火石
+    _SMG_boltXUP: 闪电 X UP™
+    _SMG_luckyLeprechaunClusters: 幸运矮妖精集群奖金
+    _SMG_immortalRomanceVideoBingo: 不朽情缘视频宾果
+    _SMG_maskOfAmun: 阿蒙的面具
+    _SMG_divineRichesHelios: 神圣财富 - 赫利俄斯
+    _SMG_wildfireWins: 野火灼金
+    _SMG_circusJugglersJackpots: ⻢戏小丑累积奖金
+    _SMG_diaDelMariachiMegaways: 墨西哥流浪乐队节
+    _SMG_westernGold2: 西域黄金2
+    _SMG_abraCatDabra: 猫咪咒语
+    _SMG_wildWildRomance: 百搭狂野浪漫
+    _SMG_lightningFortunes: 闪电财富
+    _SMG_25000Talons: 25000鹰爪
+    _SMG_cashNRichesMegaways: 现金与财富 Megaways™
+    _SMG_15Tridents: 15个三叉戟
+    _SMG_dungeonsAndDiamonds: 地下城与钻石
+    _SMG_theGreatAlbini2: 伟大 魔术师2
+    _SMG_aztecFalls: 阿兹特克天降大奖
+    _SMG_mastersOfValhalla: 瓦尔哈拉的统治者
+    _SMG_dokiDokiParfait: 心动芭菲
+    _SMG_oniHunterNightSakura: 鬼狩夜樱
+    _SMG_fishinPotsOfGold: 金罐钓钓乐
+    _SMG_megaMoneyWheel: 巨额现金转盘
+    _SMG_switchWheelOfWinners: 转盘大赢家
+    _SMG_kingsOfCrystals: 水晶之王
+    _SMG_breakAwayShootout: 冰球突破 点球大战
+    _SMG_hyperStrikeHyperSpins: 究极闪电 HyperSpins™
+    _SMG_jurassicParkGold: Jurassic Park:黄金
+    _SMG_5StarKnockout: 5星淘汰
+    _SMG_bustTheMansion: 大宅神偷
+    _SMG_agentJaneBlondeMaxVolume: 特工简·布隆德最大音量
+    _SMG_hyperStar: 超级 星星
+    _SMG_basketballStarWilds: 篮球巨星百搭
+    _SMG_arcticEnchantress: 北极女巫
+    _SMG_kodiakKingdom: 科迪亚克王国
+    _SMG_bigBoomRiches: 财富大爆炸
+    _SMG_squealinRiches: 喝彩的旺财
+    _SMG_4DiamondBlues: 4钻石蓝调 - Megaways™
+    _SMG_9masksOfFireHyperSpins: 9 个烈焰面具 HyperSpins™
+    _SMG_catClans: 猫咪部落
+    _SMG_bookOfMrsClaus: 圣诞老婆婆之书
+    _SMG_luckyClucks: 幸运鸡
+    _SMG_cossacksTheWildHunt: 哥萨克勇士：荒野狩猎
+    _SMG_chroniclesOfOlympusXUP: 奥林匹斯編年史 X UP
+    _SMG_dragonsBreath: 龙息之焰
+    _SMG_wweLegendsLinkWin: WWE摔角传奇
+    _SMG_fortuneRush: 瑞龙献宝
+    _SMG_10000Wishes: 10000个愿望
+    _SMG_108Heroes: 108好汉
+    _SMG_108heroesMultiplierFortunes: 一零八好汉 乘数财富
+    _SMG_5ReelDrive: 5轴驱动
+    _SMG_777MegaDeluxe: 777绝对豪华
+    _SMG_777RoyalWheel: 777皇家幸运轮
+    _SMG_8GoldenSkullsOfHollyRoger: 8个Holly Roger™金骷髅Megaways™
+    _SMG_9BlazingDiamonds: 9颗炽热钻石
+    _SMG_9BlazingDiamondsWowpot: 9颗炽热钻石 Wowpot
+    _SMG_9masksOfFire: 9个烈焰面具
+    _SMG_9potsOfGold: 9罐黄金
+    _SMG_aDarkMatter: 黑暗阴影
+    _SMG_aTaleOfElves: 精灵传说
+    _SMG_absolootlyMadMegaMoolah: Mega Moolah 绝对疯狂
+    _SMG_actionOpsSnowAndSable: 秘密行动-雪诺和塞布尔
+    _SMG_adventurePalace: 奇遇宫殿
+    _SMG_adventuresOfDoubloonIsland: 金币岛大冒险
+    _SMG_africaXUP: 非洲 X UP™
+    _SMG_africanLegends: 非洲传奇
+    _SMG_ageOfConquest: 征服时代
+    _SMG_ageOfDiscovery: 探索时代
+    _SMG_agentJaneBlonde: 特工简布隆德
+    _SMG_agentjaneblondereturns: 特工简.布隆德归来
+    _SMG_alaskanFishing: 阿拉斯加钓鱼
+    _SMG_alchemistStone: 贤者之石
+    _SMG_alchemyBlast: 炼金爆炸
+    _SMG_alchemyFortunes: 炼金财宝
+    _SMG_amazingLinkApollo: 神奇 连环 阿波罗
+    _SMG_amazingLinkZeus: 神奇连环宙斯
+    _SMG_americanRouletteGold: 美式轮盘
+    _SMG_switchAmericanRoulette: 美式轮盘
+    _SMG_ancientFortunesPoseidonMegaways: 古代财富 Poseidon Megaways™
+    _SMG_ancientFortunesPoseidonWOWPOT: 古代财富 Poseidon WOWPOT!™ MEGAWAYS™
+    _SMG_ancientFortunesZeus: Zeus古代财富
+    _SMG_ariana: 爱丽娜
+    _SMG_asianBeauty: 亚洲美人
+    _SMG_assassinMoon: 刺客之月
+    _SMG_astroLegendsLyraandErion: 太空传奇-莱拉和叶莉昂
+    _SMG_atlanteanTreasures: 亚特兰蒂斯宝藏
+    _SMG_atlantisRising: 亚特兰蒂斯 崛起
+    _SMG_augustus: 奥古斯都
+    _SMG_auroraWilds: 极光百搭
+    _SMG_avalon: 阿瓦隆
+    _SMG_badmintonHero: 热血羽毛球
+    _SMG_bananaOdyssey: 香蕉奥德赛
+    _SMG_barBarBlackSheep5Reel: 黑绵羊咩咩叫
+    _SMG_BarsAndStripes: 条条纹纹
+    _SMG_basketballStar: 篮球巨星
+    _SMG_basketballStarDeluxe: 篮球巨星豪华版
+    _SMG_basketballStaronFire: 篮球巨星火力全开
+    _SMG_battleRoyale: 大逃杀
+    _SMG_beachBabes: 沙滩女孩
+    _SMG_beautifulBones: 美丽骷髅
+    _SMG_bigKahuna: 森林之王
+    _SMG_bigTop: 马戏团
+    _SMG_bikiniParty: 比基尼派对
+    _SMG_blazingMammoth: 炽热猛犸象
+    _SMG_boatofFortune: 金龙财宝
+    _SMG_boogieMonsters: 摇滚怪兽
+    _SMG_bookOfKingArthur: 亚瑟王之书
+    _SMG_bookOfOz: Oz之书
+    _SMG_bookOfOzLockNSpin: Oz之书锁定并旋转
+    _SMG_bookieOfOdds: 好运经纪人
+    _SMG_boomPirates: 炸弹海盗
+    _SMG_breakAway: 冰球突破
+    _SMG_breakAwayDeluxe: 冰球突破豪华版
+    _SMG_breakAwayLuckyWilds: 冰球突破幸运百搭
+    _SMG_breakAwayUltra: 冰球突破 终极全胜
+    _SMG_BreakAwayV90: 冰球突破 V90
+    _SMG_breakDaBank: 抢银行
+    _SMG_breakDaBankAgain: 再抢银行
+    _SMG_breakDaBankAgainRespin: 再抢银行再旋转
+    _SMG_breakDaBankAgainMegaways: 再抢银行 MEGAWAYS™
+    _SMG_bridesmaids: 伴娘我最大
+    _SMG_burningDesire: 炙热欲望
+    _SMG_bushTelegraph: 丛林传讯
+    _SMG_bustTheBank: 爆破银行
+    _SMG_candyDreams: 梦果子乐园
+    _SMG_carnaval: 嘉年华
+    _SMG_carnavalJackpot: 嘉年华大奖
+    _SMG_cashCrazy: 疯狂现金
+    _SMG_cashOfKingdoms: 富贵王国
+    _SMG_CashSplash5Reel: 现金满天
+    _SMG_cashapillar: 金钱蝶蛹
+    _SMG_cashoccino: 现金咖啡
+    _SMG_cashville: 现金威乐
+    _SMG_centreCourt: 网球冠军
+    _SMG_chicagoGold: 芝加哥黄金
+    _SMG_classic243: 经典243​
+    _SMG_coolBuck5Reel: 运财酷儿
+    _SMG_coolWolf: 酷派狼人
+    _SMG_couchPotato: 慵懒土豆
+    _SMG_crazyChameleons: 疯狂变色龙
+    _SMG_cricketStar: 板球明星
+    _SMG_cricketStarScratch: 板球明星 Scratch
+    _SMG_deadmau5: Not Available
+    _SMG_deckTheHalls: 闪亮的圣诞节
+    _SMG_decoDiamonds: 德科钻石
+    _SMG_diamondEmpire: 钻石帝国
+    _SMG_diamondKingJackpots: 钻石之王
+    _SMG_divineDiamonds: 神圣钻石
+    _SMG_dolphinCoast: 海豚海岸
+    _SMG_dolphinQuest: 海豚历奇
+    _SMG_doubleWammy: 双倍惊喜
+    _SMG_dragonDance: 舞龙
+    _SMG_dragonShard: 神龙碎片
+    _SMG_dragonz: 幸运龙宝贝
+    _SMG_dreamDate: 梦幻邂逅
+    _SMG_eaglesWings: 雄鹰之翼
+    _SMG_egyptianTombs: 埃及古墓
+    _SMG_elvenGold: 精灵黄金
+    _SMG_emeraldGold: 金翠绿
+    _SMG_emotiCoins: 表情金币
+    _SMG_emperorOfTheSea: 青龙出海
+    _SMG_emperorOfTheSeaDeluxe: 青龙出海豪华版
+    _SMG_europeanRoulette: 轮盘
+    _SMG_switchEuropeanRoulette: 轮盘
+    _SMG_exoticCats: 异域狂兽
+    _SMG_fireForge: 烈火锻金
+    _SMG_fishParty: 深海派对
+    _SMG_flowerFortunesAsia: 花的幸运Megaways™
+    _SMG_footballStar: 足球明星
+    _SMG_footballStarDeluxe: 足球明星豪华版
+    _SMG_forbiddenThrone: 禁忌王座
+    _SFG_ForestParty: 森林舞会
+    _SMG_forgottenIsland: 遗忘之岛Megaways™
+    _SMG_fortuneGirl: 金库甜心
+    _SMG_fortunium: 财富之都
+    _SMG_fortuniumGoldMegaMoolah: 财富之都 黄金版 Mega Moolah
+    _SMG_frozenDiamonds: 急冻钻石​
+    _SMG_fruitBlast: 水果大爆发
+    _SMG_fruitVSCandy: 水果VS糖果
+    _SMG_gemsAndDragons: 魔龙宝珠
+    _SMG_gemsOdyssey: 宝石奥德赛
+    _SMG_girlsWithGunsJungleHeat: 美女枪手丛林激战
+    _SMG_gnomeWood: 矮木
+    _SMG_goldCollector: 淘金者
+    _SMG_goldFactory: 黄金工厂
+    _SMG_goldaurGuardians: 黄金守卫
+    _SMG_goldenEra: 黄金时代
+    _SMG_goldenPrincess: 黄金公主
+    _SMG_goldenStallion: 金色骏马
+    _SMG_gopherGold: 黄金地鼠
+    _SMG_halloweenies: 万圣节派对
+    _SMG_HappyHolidays: 快乐假日
+    _SMG_happyMonsterClaw: 开心娃娃机
+    _SMG_harveys: 哈维斯的晚餐
+    _SMG_highSociety: 上流社会
+    _SMG_hippieDays: 嬉皮时光
+    _SMG_hollyJollyPenguins: 圣诞企鹅
+    _SMG_HoundHotel: 酷犬酒店
+    _SMG_huangdiTheYellowEmperor: 轩辕帝传
+    _SMG_hyperGold: 超猎黄金
+    _SMG_hyperStrike: 究极闪电
+    _SMG_immortalRomance: 不朽情缘
+    _SMG_immortalRomanceMegaMoolah: 不朽情缘 Mega Moolah
+    _SMG_ImmortalRomancev90: 不朽情缘 V90
+    _SMG_incanAdventure: 挖到宝
+    _SMG_theIncredibleBalloonMachine: 不可思议的气球机
+    _SMG_ingotsOfCaiShen: 财神 元宝
+    _SMG_isis: 伊希斯
+    _SMG_joyfulJoker: 欢乐小丑 Megaways
+    _SMG_juicyJokerMegaMoolah: 多汁水果小丑Mega Moolah
+    _SMG_jungleJimElDorado: 丛林吉姆-黄金国
+    _SMG_jungleJimAndTheLostSphinx: 丛林吉姆失落的狮身人面像
+    _SMG_jurassicWorld: 侏罗纪世界
+    _SMG_jurassicWorldRaptorRiches: Jurassic World 迅猛龙送财
+    _SMG_karaokeParty: K歌乐韵
+    _SMG_kathmandu: 加德满都
+    _SMG_kingTusk: 大象之王
+    _SMG_kingsOfCash: 现金之王
+    _SMG_KittyCabana: 凯蒂卡巴拉
+    _SMG_ladiesNite: 淑女派对
+    _SMG_ladiesNite2TurnWild: 淑女之夜2 狂野变身
+    _SMG_LadiesNiteV90: 淑女派对 V90
+    _SMG_ladyInRed: 红衣女郎
+    _SMG_laraCroftTemplesAndTombs: 萝拉卡芙特之神庙古墓
+    _SMG_legacyOfOz: 奥兹Oz传奇
+    _SMG_LegendOftheMoonLovers: 奔月传说
+    _SMG_lifeOfRiches: 富裕人生
+    _SMG_lionsPride: 雄狮昂扬
+    _SMG_liquidGold: 液态黄金
+    _SMG_loaded: 腰缠万贯
+    _SMG_longMuFortunes: 龙母财富
+    _SMG_lostVegas: 迷失拉斯维加斯
+    _SMG_luchaLegends: 摔角传奇
+    _SMG_luckyBachelors: 幸运单身族
+    _SMG_luckyfirecracker: 招财鞭炮
+    _SMG_luckyKoi: 幸运锦鲤
+    _SMG_luckyLeprechaun: 幸运矮妖精
+    _SMG_luckyLittleGods: 宝贝财神
+    _SMG_luckyRichesHyperspins: 幸运富豪 Hyperspins
+    _SMG_luckyTwins: 幸运双星
+    _SMG_luckyTwinsCatcher: 幸运双星接财神
+    _SMG_luckyTwinsJackpot: 幸运双星大奖
+    _SMG_luckyTwinsWilds: 幸运双星百搭
+    _SMG_luckyZodiac: 幸运生肖
+    _SMG_madHatters: 疯狂帽匠
+    _SMG_magicOfSahara: 魔力撒哈拉
+    _SMG_MajorMillions5Reel: 百万少校累积奖金
+    _SMG_mauiMischief: 毛伊大乱斗
+    _SMG_maxDamageArcade: 终结侵略者
+    _SMG_mayanPrincess: 玛雅公主
+    _SMG_megaMoneyMultiplier: 巨额现金乘数
+    _SMG_megaMoneyRush: 巨款大冲击
+    _SMG_MegaMoolah: 百万钞票
+    _SMG_megaMoolahGoddess: MEGA MOOLAH 女神
+    _SMG_megaMoolahTheWitchsMoon: Mega Moolah 女巫之月
+    _SMG_mermaidsMillions: 百万人鱼
+    _SMG_mobyDickOnlineSlot: 大白鲸
+    _SMG_monsterBlast: 怪物爆炸
+    _SMG_monsterWheels: 怪物赛车
+    _SMG_munchkins: 小小矮人
+    _SMG_mysticDreams: 神秘的梦
+    _SMG_neptunesRichesOceanOfWilds: 海王星宝藏狂野之海
+    _SMG_nobleSky: 宏伟苍穹
+    _SMG_odinsRiches: 奥丁的财宝
+    _SMG_oinkCountryLove: 呼噜噜爱上乡下
+    _SMG_oniHunter: 鬼狩
+    _SMG_oniHunterPlus: 鬼狩加強版
+    _SMG_ourDaysA: 有你的校园
+    _SMG_partyIsland: 派对岛屿
+    _SMG_peekABoo5Reel: 躲猫猫
+    _SMG_petsGoWild: 狂野宠物
+    _SMG_pingPongStar: 乒乓巨星
+    _SMG_pistoleras: 持枪王者
+    _SMG_playboy: 花花公子
+    _SMG_playboyFortunes: PLAYBOY® 财富™
+    _SMG_playboyGold: Playboy黄金
+    _SMG_playboyGoldJackpots: Playboy黄金大奖
+    _SMG_pokeTheGuy: 进击猿人
+    _SMG_pollenParty: 花粉之国
+    _SMG_prettyKitty: 漂亮猫咪
+    _SMG_purePlatinum: 完美白金
+    _SMG_queenofAlexandria: 亚历山大女王
+    _SMG_queenOfAlexandriaWowpot: 亚历山大女王：WOWPOT!™
+    _SMG_queenOfTheCrystalRays: 水晶射线女王
+    _SMG_rabbitinthehat: 帽中的兔子
+    _SMG_reelGems: 宝石转轴
+    _SMG_reelGemsDeluxe: 宝石转轴豪华版
+    _SMG_reelSpinner: 旋转大战
+    _SMG_reelStrike: 海洋争夺
+    _SMG_ReelTalent: 真正高手
+    _SMG_reelThunder: 转轴雷电
+    _SMG_relicSeekers: 探陵人
+    _SMG_retroReels: 经典老虎机
+    _SMG_retroReelsDiamondGlitz: 复古转轴之炫目钻石
+    _SMG_retroReelsExtremeHeat: 酷热经典
+    _SMG_rhymingReelsGeorgiePorgie: 乔治与柏志
+    _SMG_rhymingReelsHeartsAndTarts: 童话转轴 红心皇后
+    _SMG_rivieraRiches: 瑞维拉财宝
+    _SMG_romanovRiches: 罗曼诺夫财富
+    _SMG_rugbyStar: 橄榄球明星
+    _SMG_rugbyStarDeluxe: 橄榄球明星豪华版
+    _SMG_santaPaws: 圣诞狗狗
+    _SMG_santasWildRide: 圣诞老人的百搭摩托车
+    _SMG_scrooge: 小气财神
+    _SMG_secretAdmirer: 暗恋
+    _SMG_secretRomance: 秘密爱慕者
+    _SMG_serengetiGold: 塞伦盖蒂黄金
+    _SMG_shamrockHolmes: 三叶草福尔摩斯 Megaways™
+    _SMG_shanghaiBeauty: 上海美女
+    _SMG_sherlockandMoriarty: 夏洛克与莫里亚蒂WOWPOT!
+    _SMG_sherlockOfLondonOnlineSlot: 伦敦的夏洛克
+    _SMG_shogunofTime: 时界门之将军
+    _SMG_showdownSaloon: 对决沙龙
+    _SMG_silverFang: 银狼
+    _SMG_silverLioness4x: 银色雌狮4x
+    _SMG_silverSeas: 银色之海
+    _SMG_silverbackMultiplierMountain: 银背乘数山
+    _SMG_sistersofOzJackpots: Oz姐妹累积奖金
+    _SMG_sistersOfOzWowPot: Oz姐妹™ WowPot!™
+    _SMG_sixAcrobats: 杂技群英会
+    _SMG_soManyMonsters: 多多怪兽
+    _SMG_soMuchCandy: 多多糖果
+    _SMG_soMuchSushi: 多多寿司
+    _SMG_soccerStriker: 足球前锋
+    _SMG_solarWilds: 太阳系百搭符号
+    _SMG_springBreak: 放浪假日
+    _SMG_stardust: 星尘
+    _SMG_starlightKiss: 星光之吻
+    _SMG_stashOfTheTitans: 泰坦帝国
+    _SMG_sterlingSilver: 纯银
+    _SMG_sugarParade: 糖果巡游
+    _SMG_summerHoliday: 暑假
+    _SMG_summertime: 暑假时光
+    _SMG_sunQuest: 追寻太阳
+    _SMG_sunTide: 太阳征程
+    _SMG_supeItUp: 增强马力
+    _SMG_sureWin: 必胜
+    _SMG_tallyHo: 狩猎游戏
+    _SMG_tarzan: 泰山传奇
+    _SMG_tarzanAndtheJewelsofOpar: Tarzan® 和欧巴珠宝
+    _SMG_tastyStreet: 妹妹很饿
+    _SMG_theFinerReelsOfLife: 至尊人生
+    _SMG_theGrandJourney: 探险之旅
+    _SMG_theGreatAlbini: 伟大魔术师
+    _SMG_theHeatIsOn: 极速抢钱
+    _SMG_thePhantomOfTheOpera: 歌剧魅影
+    _SMG_theRatPack: 鼠帮
+    _SMG_theTwistedCircus: 奇妙马戏团
+    _SMG_thunderstruck: 雷霆万钧
+    _SMG_thunderstruck2: 雷霆万钧2
+    _SMG_thunderstruckWildLightning: 雷霆万钧之百搭闪电
+    _SMG_tigersEye: 虎眼
+    _SMG_tikiReward: 提基奖励
+    _SMG_tikiVikings: 蒂基维京
+    _SMG_titansOfTheSunHyperion: 太阳神许珀里翁
+    _SMG_titansOfTheSunTheia: 太阳神忒伊亚
+    _SMG_tombRaider: 古墓奇兵
+    _SMG_RubyTombRaiderII: 古墓丽影 剑的秘密
+    _SMG_treasureDash: 逃宝街机游戏
+    _SMG_treasureNile: 尼罗河宝藏
+    _SMG_treasurePalace: 宝藏宫殿
+    _SMG_treasuresOfLionCity: 海底宝城
+    _SMG_untamedGiantPanda: 野生大熊猫
+    _SMG_villagePeople: 型男舞步
+    _SMG_vinylCountdown: 黑胶热舞
+    _SMG_voila: 哈啰巴黎
+    _SMG_wackyPanda: 囧囧熊猫
+    _SMG_wantedOutlaws: 歹徒通缉令
+    _SMG_westernGold: 西域黄金
+    _SMG_whatAHoot: 滑稽猫头鹰
+    _SMG_wheelofWishes: 愿望转盘
+    _SMG_wickedTalesDarkRed: 黑暗故事神秘深红
+    _SMG_wildCatchNew: 荒野垂钓
+    _SMG_wildOrient: 东方珍兽
+    _SMG_wildScarabs: 百搭圣甲虫
+    _SMG_winSumDimSum: 开心点心
+    _SMG_zombieHoard: 丧尸来袭
+  poker:
+    _SFG_WPGaple: 王牌Gaple
+    _SMG_matchDay: 比赛日
+    _SFG_WPXocDia: 王牌 色碟
+    _SFG_WPFishPrawnCrab: 王牌鱼虾蟹
+    _SMG_andarBaharRoyale: '- Market Game'
+    _SMG_switchBaccarat: 百家乐
+    _SFG_WP28Mahjong: 王牌二八杠
+    _SFG_WP5PK: 王牌五张
+    _SFG_WPBankerNiuNiu: 王牌抢庄牛牛
+    _SFG_WPBankerNiuNiu_3cards: 王牌抢庄牛牛(看3张)
+    _SFG_WPBankerNiuNiu_4cards: 王牌抢庄牛牛(看4张)
+    _SFG_WPBonusTexas: 王牌奖金德州
+    _SFG_WPCaiShenFruitMario: 王牌财神水果机 (街机版)
+    _SFG_WPChuhanTexas: 王牌楚汉德州
+    _SFG_Doudizhu: 王牌斗地主
+    _SFG_WPForestPartyJP: 王牌森林舞会(JP)
+    _SFG_GoldenFlower: 王牌炸金花
+    _SFG_WPGoldenPigRace: 王牌赛金猪
+    _SFG_WPGoldenShark: 王牌金银鲨
+    _SFG_WPInstantGoldenFlower: 王牌炸金花 (极速版)
+    _SFG_WPMahjong_2P: 王牌麻将(二人街机版)
+    _SFG_WP100NiuNiu: 王牌百人牛牛
+    _SFG_WPTavern: 王牌客栈
+  casino:
+    _SMG_titaniumLiveGames_BaccaratNC: 免佣金百家乐
+    _SMG_titaniumLiveGames_Baccarat: 龙虎百家乐
+    _SMG_titaniumLiveGames_Hollywood_Baccarat: 好莱坞百家乐
+    _SMG_titaniumLiveGames_MP_Baccarat: 百家乐
+    _SMG_titaniumLiveGames_Roulette: 轮盘
+    _SMG_titaniumLiveGames_Sicbo: 骰宝
+    _SMG_titaniumLiveGamesAutoRoulette: 全自动轮盘
+    _SMG_titaniumLiveGames_Baccarat_VIP: VIP百家乐
+  fishing:
+    _SFG_WDFuWaFishing: 万达福娃捕鱼
+    _SFG_WDGoldBlastFishing: 万达爆金捕鱼
