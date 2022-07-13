@@ -22,3 +22,4 @@ Run this command in your command line
 dotnet -- filePath="path-to-input-file" output="path-to-output-file"
 ```
 
+**Note** Check `/sample` directory for sample csv and output file
