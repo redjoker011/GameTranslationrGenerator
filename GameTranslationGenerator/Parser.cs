@@ -1,5 +1,4 @@
-﻿using System;
-namespace GameTranslationGenerator;
+﻿namespace GameTranslationGenerator;
 
 public class Parser
 {
@@ -11,10 +10,10 @@ public class Parser
         string normalizedKey = $"_{GameCode}";
         string gameTypeLower = GameType.ToLower();
 
-	    if (gameTypeLower == "slot")
-	    {
-		  // Pluralize slot -> slots
-		  gameTypeLower = $"{gameTypeLower}s";
+        if (gameTypeLower == "slot")
+        {
+            // Pluralize slot -> slots
+            gameTypeLower = $"{gameTypeLower}s";
         }
 
         var prop = En;
@@ -22,20 +21,19 @@ public class Parser
         if (Locale != "en")
         {
             prop = Cn;
-	    }
+	      }
 
         if (!prop.ContainsKey(gameTypeLower))
         {
-	        var dict = new Dictionary<string, string> {
+	          var dict = new Dictionary<string, string> {
 	            { normalizedKey, Title.Trim() }
-		    };
+		        };
 
-	        prop.Add(gameTypeLower, dict);
+	          prop.Add(gameTypeLower, dict);
         }
-            else if (!prop[key: gameTypeLower].ContainsKey(normalizedKey))
+        else if (!prop[key: gameTypeLower].ContainsKey(normalizedKey))
         {
 	        prop[key: gameTypeLower].Add(normalizedKey, Title.Trim());
         }
     }
 }
-

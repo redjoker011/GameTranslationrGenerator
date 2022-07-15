@@ -55,7 +55,7 @@ class Program
 
 	    reader.Translate(FilePath, Output);
 		ExitApp = !reader.Success;
-		
+
 
 		if (!ExitApp)
 		{
@@ -71,7 +71,7 @@ class Program
 			Console.WriteLine("Missing argument `filePath`");
 			return;
 		}
-    }
+  }
 
 	static void CheckOutput()
 	{
@@ -80,6 +80,5 @@ class Program
 			Console.WriteLine("Missing argument `output`");
 			return;
 		}
-    }
-
+  }
 }
